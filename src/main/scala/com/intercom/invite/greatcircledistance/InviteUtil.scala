@@ -24,7 +24,7 @@ class InviteUtil {
     customers.filter(customer => {
       val customerCoordinates = Coordinate(customer.latitude, customer.longitude)
       greatCircleDistance.calculateDistance(customerCoordinates, fromCoordinate) <= distanceKm
-    }).map(invitees => CustomerDetailSimple(invitees.name, invitees.userId))
+    }).map(invitees => CustomerDetailSimple(invitees.name, invitees.userId)).sortBy(_.userId)
   }
 
 }
