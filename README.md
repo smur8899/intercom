@@ -1,4 +1,4 @@
-# intercom
+# intercom <img src="http://seeklogo.com/images/I/intercom-logo-B222146C9B-seeklogo.com.png" width="40">
 
 - What's your proudest achievement? It can be a personal project or something you've worked on professionally. Just a short paragraph is fine, but I'd love to know why you're proud of it, what impact it had (If any) and any insights you took from it.
    - 
