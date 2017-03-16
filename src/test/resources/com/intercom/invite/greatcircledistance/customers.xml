@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <customer>
+        <latitude>52.986375</latitude>
+        <longitude>-6.043701</longitude>
+        <name>Christina McArdle</name>
+        <user_id>12</user_id>
+    </customer>
+    <customer>
+        <latitude>51.92893</latitude>
+        <longitude>-10.27699</longitude>
+        <name>Alice Cahill</name>
+        <user_id>1</user_id>
+    </customer>
+    <customer>
+        <latitude>51.8856167</latitude>
+        <longitude>-10.4240951</longitude>
+        <name>Ian McArdle</name>
+        <user_id>2</user_id>
+    </customer>
+    <customer>
+        <latitude>52.3191841</latitude>
+        <longitude>-8.5072391</longitude>
+        <name>Jack Enright</name>
+        <user_id>3</user_id>
+    </customer>
+    <customer>
+        <latitude>53.807778</latitude>
+        <longitude>-7.714444</longitude>
+        <name>Charlie Halligan</name>
+        <user_id>28</user_id>
+    </customer>
+    <customer>
+        <latitude>53.4692815</latitude>
+        <longitude>-9.436036</longitude>
+        <name>Frank Kehoe</name>
+        <user_id>7</user_id>
+    </customer>
+    <customer>
+        <latitude>54.0894797</latitude>
+        <longitude>-6.18671</longitude>
+        <name>Eoin Ahearn</name>
+        <user_id>8</user_id>
+    </customer>
+    <customer>
+        <latitude>53.038056</latitude>
+        <longitude>-7.653889</longitude>
+        <name>Stephen McArdle</name>
+        <user_id>26</user_id>
+    </customer>
+    <customer>
+        <latitude>54.1225</latitude>
+        <longitude>-8.143333</longitude>
+        <name>Enid Gallagher</name>
+        <user_id>27</user_id>
+    </customer>
+    <customer>
+        <latitude>53.1229599</latitude>
+        <longitude>-6.2705202</longitude>
+        <name>Theresa Enright</name>
+        <user_id>6</user_id>
+    </customer>
+    <customer>
+        <latitude>52.2559432</latitude>
+        <longitude>-7.1048927</longitude>
+        <name>Jack Dempsey</name>
+        <user_id>9</user_id>
+    </customer>
+    <customer>
+        <latitude>52.240382</latitude>
+        <longitude>-6.972413</longitude>
+        <name>Georgina Gallagher</name>
+        <user_id>10</user_id>
+    </customer>
+    <customer>
+        <latitude>53.2451022</latitude>
+        <longitude>-6.238335</longitude>
+        <name>Ian Kehoe</name>
+        <user_id>4</user_id>
+    </customer>
+    <customer>
+        <latitude>53.1302756</latitude>
+        <longitude>-6.2397222</longitude>
+        <name>Nora Dempsey</name>
+        <user_id>5</user_id>
+    </customer>
+    <customer>
+        <latitude>53.008769</latitude>
+        <longitude>-6.1056711</longitude>
+        <name>Richard Finnegan</name>
+        <user_id>11</user_id>
+    </customer>
+    <customer>
+        <latitude>53.1489345</latitude>
+        <longitude>-6.8422408</longitude>
+        <name>Alan Behan</name>
+        <user_id>31</user_id>
+    </customer>
+    <customer>
+        <latitude>53</latitude>
+        <longitude>-7</longitude>
+        <name>Olive Ahearn</name>
+        <user_id>13</user_id>
+    </customer>
+    <customer>
+        <latitude>51.999447</latitude>
+        <longitude>-9.742744</longitude>
+        <name>Helen Cahill</name>
+        <user_id>14</user_id>
+    </customer>
+    <customer>
+        <latitude>52.966</latitude>
+        <longitude>-6.463</longitude>
+        <name>Michael Ahearn</name>
+        <user_id>15</user_id>
+    </customer>
+    <customer>
+        <latitude>52.366037</latitude>
+        <longitude>-8.179118</longitude>
+        <name>Ian Larkin</name>
+        <user_id>16</user_id>
+    </customer>
+    <customer>
+        <latitude>54.180238</latitude>
+        <longitude>-5.920898</longitude>
+        <name>Patricia Cahill</name>
+        <user_id>17</user_id>
+    </customer>
+    <customer>
+        <latitude>53.0033946</latitude>
+        <longitude>-6.3877505</longitude>
+        <name>Lisa Ahearn</name>
+        <user_id>39</user_id>
+    </customer>
+    <customer>
+        <latitude>52.228056</latitude>
+        <longitude>-7.915833</longitude>
+        <name>Bob Larkin</name>
+        <user_id>18</user_id>
+    </customer>
+    <customer>
+        <latitude>54.133333</latitude>
+        <longitude>-6.433333</longitude>
+        <name>Rose Enright</name>
+        <user_id>24</user_id>
+    </customer>
+    <customer>
+        <latitude>55.033</latitude>
+        <longitude>-8.112</longitude>
+        <name>Enid Cahill</name>
+        <user_id>19</user_id>
+    </customer>
+    <customer>
+        <latitude>53.521111</latitude>
+        <longitude>-9.831111</longitude>
+        <name>Enid Enright</name>
+        <user_id>20</user_id>
+    </customer>
+    <customer>
+        <latitude>51.802</latitude>
+        <longitude>-9.442</longitude>
+        <name>David Ahearn</name>
+        <user_id>21</user_id>
+    </customer>
+    <customer>
+        <latitude>54.374208</latitude>
+        <longitude>-8.371639</longitude>
+        <name>Charlie McArdle</name>
+        <user_id>22</user_id>
+    </customer>
+    <customer>
+        <latitude>53.74452</latitude>
+        <longitude>-7.11167</longitude>
+        <name>Oliver Ahearn</name>
+        <user_id>29</user_id>
+    </customer>
+    <customer>
+        <latitude>53.761389</latitude>
+        <longitude>-7.2875</longitude>
+        <name>Nick Enright</name>
+        <user_id>30</user_id>
+    </customer>
+    <customer>
+        <latitude>54.080556</latitude>
+        <longitude>-6.361944</longitude>
+        <name>Eoin Gallagher</name>
+        <user_id>23</user_id>
+    </customer>
+    <customer>
+        <latitude>52.833502</latitude>
+        <longitude>-8.522366</longitude>
+        <name>David Behan</name>
+        <user_id>25</user_id>
+    </customer>
+</customers>
